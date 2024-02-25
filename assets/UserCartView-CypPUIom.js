@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,a as o}from"./index-oXJk3cL_.js";const c={},n={class:"container mt-4 text-center"},a=o("h2",null,"購物車列表",-1),r=[a];function _(i,d,p,l,f,h){return s(),t("div",n,r)}const u=e(c,[["render",_]]);export{u as default};

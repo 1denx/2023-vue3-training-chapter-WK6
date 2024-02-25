@@ -1,0 +1,1 @@
+import{_ as t,c as o,b as c,a as n,o as r,r as s}from"./index-oXJk3cL_.js";const a={},_={class:"container mt-4 text-center"},i=n("h2",null,"訂單列表",-1);function d(l,m){const e=s("Router-view");return r(),o("div",_,[i,c(e)])}const p=t(a,[["render",d]]);export{p as default};
